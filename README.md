@@ -27,7 +27,7 @@ Security functionalities:
 This site has been deploy on firebase.com
 
 # External URL
-[Portfolio](https://portfolio-geekshubs.web.app/);
+[https://portfolio-geekshubs.web.app/](https://portfolio-geekshubs.web.app/)
 
 # Add to home screen
 ![add_to_home_screen](./doc/add_to_home_screen.gif)
