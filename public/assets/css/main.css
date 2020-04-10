@@ -1,18 +1,4 @@
-:root {
-	--primary-color: #42a5f5;
-	--primary-color--light: #80d6ff;
-	--primary-color--dark: #0077c2;
-	--secondary-color: #FFCE37;
-	--secondary-color--light: #FFE594;
-	--secondary-color--dark: #FFC000;
-	--background-color: ##E1E2E1;
-}
-body {
-	background-color: var(--background-color);
-}
-header {
-	background-color: var(--primary-color)
-}
+@import "./template.css";
+@import "./reset.css";
 
-@import "./reset.css"
 

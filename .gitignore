@@ -6,3 +6,7 @@ node_modules
 
 # Ignore Idea
 .idea
+
+.firebase
+
+.firebaserc
