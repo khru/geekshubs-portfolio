@@ -11,7 +11,7 @@ Tech use:
 
 
 # Funcional requirements
---
+
 ## Home
 The home only shows a small resume with my life and links to my resume and linkedin
 
