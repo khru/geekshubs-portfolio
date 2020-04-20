@@ -37,5 +37,3 @@ TODOS.
 
  - [X] Create 2 sites `Home` and `Contact`.
  - [X] Use HTML and CSS only.
-
-
